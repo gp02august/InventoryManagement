@@ -1,4 +1,4 @@
-# AuthInventoryOrderManagement
+# InventoryOrderManagement
 
 Microservices sample containing three ASP.NET Core (.NET 9) services:
 - `AuthService` — authentication, JWT issuance
